@@ -1,0 +1,8 @@
+C:\res\intec\Oefeningen\Calc\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe.config
+C:\res\intec\Oefeningen\Calc\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe
+C:\res\intec\Oefeningen\Calc\Calculatrice\Calculatrice\bin\Debug\Calculatrice.pdb
+C:\res\intec\Oefeningen\Calc\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Form1.resources
+C:\res\intec\Oefeningen\Calc\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Properties.Resources.resources
+C:\res\intec\Oefeningen\Calc\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csproj.GenerateResource.cache
+C:\res\intec\Oefeningen\Calc\Calculatrice\Calculatrice\obj\Debug\Calculatrice.exe
+C:\res\intec\Oefeningen\Calc\Calculatrice\Calculatrice\obj\Debug\Calculatrice.pdb

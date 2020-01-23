@@ -1,0 +1,11 @@
+C:\res\intec\Oefeningen\Calc\Calculatrice\Calc\bin\Debug\netcoreapp3.1\Calc.exe
+C:\res\intec\Oefeningen\Calc\Calculatrice\Calc\bin\Debug\netcoreapp3.1\Calc.deps.json
+C:\res\intec\Oefeningen\Calc\Calculatrice\Calc\bin\Debug\netcoreapp3.1\Calc.runtimeconfig.json
+C:\res\intec\Oefeningen\Calc\Calculatrice\Calc\bin\Debug\netcoreapp3.1\Calc.runtimeconfig.dev.json
+C:\res\intec\Oefeningen\Calc\Calculatrice\Calc\bin\Debug\netcoreapp3.1\Calc.dll
+C:\res\intec\Oefeningen\Calc\Calculatrice\Calc\bin\Debug\netcoreapp3.1\Calc.pdb
+C:\res\intec\Oefeningen\Calc\Calculatrice\Calc\obj\Debug\netcoreapp3.1\Calc.csprojAssemblyReference.cache
+C:\res\intec\Oefeningen\Calc\Calculatrice\Calc\obj\Debug\netcoreapp3.1\Calc.AssemblyInfoInputs.cache
+C:\res\intec\Oefeningen\Calc\Calculatrice\Calc\obj\Debug\netcoreapp3.1\Calc.AssemblyInfo.cs
+C:\res\intec\Oefeningen\Calc\Calculatrice\Calc\obj\Debug\netcoreapp3.1\Calc.dll
+C:\res\intec\Oefeningen\Calc\Calculatrice\Calc\obj\Debug\netcoreapp3.1\Calc.pdb
